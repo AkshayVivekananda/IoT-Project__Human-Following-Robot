@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="#source-code">Source Code(https://github.com/AkshayVivekananda/IoT-Project__Smart-Gloves/blob/main/README.md#-circuit-diagram)</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project__Smart-Gloves/blob/main/README.md#-circuit-diagram" target="_blank">Source Code</a></td>
   </tr>
   <tr>
     <td>5</td>
