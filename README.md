@@ -11,19 +11,19 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="#project-title">Project Title</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project__Smart-Stick?tab=readme-ov-file#-iot-project---smart-gloves">Project Title</a></td>
   </tr>
   <tr>
     <td>2</td>
-    <td><a href="#about-the-project">About the Project</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project__Smart-Stick?tab=readme-ov-file#about-the-project">About the Project</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="#circuit-diagram">Circuit Diagram</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project__Smart-Stick?tab=readme-ov-file#circuit-diagram">Circuit Diagram</a></td>
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="source-code">Source Code</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project__Smart-Stick?tab=readme-ov-file#-source-code">Source Code</a></td>
   </tr>
   <tr>
     <td>5</td>
