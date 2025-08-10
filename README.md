@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="https://github.com/AkshayVivekananda/IoT-Project_Smart_Gloves?tab=readme-ov-file#-source-code">Source Code</a></td>
+    <td><a href="source-code">Source Code</a></td>
   </tr>
   <tr>
     <td>5</td>
