@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="https://github.com/AkshayVivekananda/IoT-Project_Smart_Gloves?tab=readme-ov-file#-iot-project---smart-gloves">Project Title</a></td>
+    <td><a href="#project-title">Project Title</a></td>
   </tr>
   <tr>
     <td>2</td>
