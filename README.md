@@ -1,16 +1,3 @@
-Got it.
-I’ll remove the debugging section entirely, replace the project content so it’s for **Human Following Robot**, and update the components table with:
-
-* HC-SR04
-* Gear Motors – 4
-* Wheels – 4
-* IR Sensor – 2
-* Arduino Uno R3
-
-Here’s the updated README content:
-
----
-
 # **💫 IoT Project - HUMAN FOLLOWING ROBOT**
 
 ## **✨ Table of Contents**
