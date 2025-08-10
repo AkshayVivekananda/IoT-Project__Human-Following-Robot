@@ -1,4 +1,4 @@
-# **💫 IoT Project - SMART GLOVES**
+# **💫 IoT Project - HUMAN FOLLOWING ROBOT**
 
 ## **✨&nbsp;Table of Contents**
 
